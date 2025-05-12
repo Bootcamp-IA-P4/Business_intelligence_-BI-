@@ -91,7 +91,7 @@ Visualiza en acción cómo funcionan las herramientas de Business Intelligence.
 
 #### 📂 Carga de Datos  
 
-🔗 [Ver video en Cloudinary](https://res.cloudinary.com/artevivo/video/upload/v1747056317/Carga-dataset_xzeb9u.mp4)
+🔗 ▶️ [Ver vídeo - Carga de Datos](https://res.cloudinary.com/artevivo/video/upload/v1747056317/Carga-dataset_xzeb9u.mp4)
 
 <video width="100%" controls>
   <source src="https://res.cloudinary.com/artevivo/video/upload/v1747056317/Carga-dataset_xzeb9u.mp4" type="video/mp4">
@@ -100,7 +100,7 @@ Visualiza en acción cómo funcionan las herramientas de Business Intelligence.
 ---
 
 #### 🧭 Panel de Trabajo (Dimensiones y Métricas)  
-🔗 [Ver video en Cloudinary](https://res.cloudinary.com/artevivo/video/upload/v1747056315/Dimensiones_amxnpm.mp4)
+🔗 ▶️ [Ver video en Cloudinary](https://res.cloudinary.com/artevivo/video/upload/v1747056315/Dimensiones_amxnpm.mp4)
 
 <video width="100%" controls>
   <source src="https://res.cloudinary.com/artevivo/video/upload/v1747056315/Dimensiones_amxnpm.mp4" type="video/mp4">
@@ -109,7 +109,7 @@ Visualiza en acción cómo funcionan las herramientas de Business Intelligence.
 ---
 
 #### 📈 Gráficos Interactivos  
-🔗 [Ver video en Cloudinary](https://res.cloudinary.com/artevivo/video/upload/v1747056320/GR%C3%81FICOS_jpv0bf.mp4)
+🔗 ▶️ [Ver video en Cloudinary](https://res.cloudinary.com/artevivo/video/upload/v1747056320/GR%C3%81FICOS_jpv0bf.mp4)
 
 <video width="100%" controls>
   <source src="https://res.cloudinary.com/artevivo/video/upload/v1747056320/GR%C3%81FICOS_jpv0bf.mp4" type="video/mp4">
