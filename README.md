@@ -58,10 +58,10 @@ Las soluciones de BI suelen incluir los siguientes componentes clave:
 3. **Reporting:** Generación de informes y visualizaciones para interpretar los datos.
 
 ### **Tipos de Análisis en BI:**
-- **Descriptivo:** ¿Qué pasó? 🔍
-- **Diagnóstico:** ¿Por qué ocurrió? 🧐
-- **Predictivo:** ¿Qué puede pasar? 🔮
-- **Prescriptivo:** ¿Qué debemos hacer al respecto? 📝
+- **Descriptivo:** 🔍 Este análisis resume los datos históricos para mostrar lo que ya ha ocurrido en la empresa. Se enfoca en responder preguntas como: *¿Cuántas ventas hubo? ¿Cuál fue el rendimiento mensual? ¿Aué pasó?*
+- **Diagnóstico:** 🧐 Va un paso más allá del descriptivo. Busca identificar las causas detrás de los resultados observados: *Si las ventas bajaron, este análisis ayuda a descubrir si fue por falta de stock, mala estrategia de marketing, etc.*
+- **Predictivo:** 🔮 Se utiliza para eventos futuros en base a datos históricos: *¿Qué puede pasar?*
+- **Prescriptivo:** 📝 Recomienda acciones basadas en los resultados del análisis predictivo. No solo predice el futuro, sino que sugiere decisiones óptimas. *Recomendaciones de inventario, optimización de rutas logísticas.*
 
 ---
 
