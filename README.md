@@ -32,7 +32,11 @@ El **Business Intelligence** (BI) es el proceso de convertir los datos crudos en
 Power BI es una herramienta de BI de Microsoft que se destaca por su integración con otras aplicaciones de Microsoft, su facilidad de uso y su bajo costo. Es ideal para empresas que ya están familiarizadas con el ecosistema de Microsoft y buscan una solución que permita un análisis profundo de datos.
 
 - **Pros:** Integración nativa con productos de Microsoft, interfaz amigable, precios accesibles.
-- **Contras:** Algunas limitaciones en términos de personalización avanzada.
+- **Contras:** Algunas limitaciones en términos de personalización avanzada y sólo está disponible en sistemas operativos Windows.
+
+La versión gratuita de la herramienta PowerBi se llama PowerBi Desktop y se puede descargar [aquí](https://www.microsoft.com/es-es/download/details.aspx?id=58494). Esta versión contiene gráficas/visualizaciones gratuitas disponibles pero se puede explorar el Marketplace [AppSource](https://appsource.microsoft.com/es-es/marketplace/apps?product=power-bi-visuals) de Windows donde hay cientos de gráficas personalizados, pero algunas ofrecen características adicionales de pago. Además hay que tener en cuenta que estas visualizaciones especiales funcionan con las librerías que se descargan desde [R-Studio](https://cran.r-project.org/bin/windows/base/).
+
+[Aprender más sobre cómo importar visualizaciones descargables de PowerBI desde AppSource](https://learn.microsoft.com/es-es/power-bi/developer/visuals/import-visual)
 
 ### **Tableau** 📊
 Tableau es conocida por sus capacidades avanzadas de visualización de datos y es una de las herramientas de BI más potentes del mercado. Es ideal para empresas que buscan realizar análisis complejos y presentar datos de manera muy visual e interactiva.
