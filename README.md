@@ -86,6 +86,22 @@ Visualiza en acción cómo funcionan las herramientas de Business Intelligence.
 ---
 ### 🟡 Power BI
 
+#### 📂 Carga de plantilla de matriz de correlación, descargar librería corrplot y usarlo
+
+🔗 ▶️ [Ver video - Matriz de correlación](https://www.canva.com/design/DAGnXI40YDk/CnVDBVBSo0Gj_3N88bbhrg/edit?utm_content=DAGnXI40YDk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+
+#### 📂 Gráfico de líneas de predicción / forecast
+
+🔗 ▶️ [Ver video - Predicción/Forecast](https://www.canva.com/design/DAGnXDiyH5Q/F6qYZY-lMUHTwQkcwISw2A/edit?utm_content=DAGnXDiyH5Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+
+#### 📂 Árbol jerárquico para averiguar los máximos 
+
+🔗 ▶️ [Ver video - árbol jerárquico](https://www.canva.com/design/DAGnXNjn9EI/uzskFW0zmhRuU3c0ZGhNjQ/edit?utm_content=DAGnXNjn9EI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ---
 ### 📊 Tableau
 
