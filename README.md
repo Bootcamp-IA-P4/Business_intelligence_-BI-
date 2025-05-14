@@ -155,3 +155,8 @@ Puedes acceder a la **presentación completa** de herramientas de **Business Int
 [Presentación de Herramientas de Business Intelligence en Canva](https://www.canva.com/design/DAGmGLDc_MM/LhwmWOjDTUBxecS4ZKWGBg/view?utm_content=DAGmGLDc_MM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utm_id=h432a2bb4f1)
 
 ---
+
+Colaboradoras:
+
+- Nhoeli Salazar: [Linkedin](https://www.linkedin.com/in/nhoeli-salazar/)[Github](https://github.com/Nho89)
+- Ally Haruty: [Linkedin](www.linkedin.com/in/allaharuty)[Github](https://github.com/alharuty)
