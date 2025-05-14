@@ -25,16 +25,26 @@ El **Business Intelligence** (BI) es el proceso de convertir los datos crudos en
 3. **Análisis de Datos:** Evaluar la información para encontrar patrones, tendencias y insights.
 4. **Obtención de Información Útil:** Transformar el análisis en decisiones empresariales efectivas.
 
+
+## **Beneficios de usar Business Intelligence**
+
+- **Mejor toma de decisiones:** Al contar con información precisa y oportuna, se pueden tomar decisiones más acertadas que mejoran el rendimiento de la empresa.  
+- **Mejor gestión de riesgos:** Ayuda a identificar y gestionar mejor los riesgos empresariales, minimizando posibles pérdidas y maximizando las oportunidades.  
+- **Mayor eficiencia y productividad:** Al analizar los datos, se pueden identificar áreas de mejora y optimizar los procesos, lo que aumenta la eficiencia y la productividad.  
+- **Mayor ventaja competitiva:** Al tener una visión más clara del mercado y de los competidores, se pueden tomar decisiones estratégicas que dan una ventaja competitiva.
+
 ---
 
 ## **Comparativa: Power BI vs Tableau** 🔍
 ### **Power BI** 📈
-Power BI es una herramienta de BI de Microsoft que se destaca por su integración con otras aplicaciones de Microsoft, su facilidad de uso y su bajo costo. Es ideal para empresas que ya están familiarizadas con el ecosistema de Microsoft y buscan una solución que permita un análisis profundo de datos.
+Power BI es una herramienta de BI de **Microsoft** que se destaca por su integración con otras aplicaciones de Microsoft, su facilidad de uso y su bajo costo. Es ideal para empresas que ya están familiarizadas con el ecosistema de Microsoft y buscan una solución que permita un análisis profundo de datos. Permite convertir datos sin procesar en información útil mediante visualizaciones interactivas y paneles de control. 
+
+Está pensado tanto para usuarios técnicos como para usuarios de negocio sin conocimientos de programación ni análisis de datos, aunque su punto fuerte es que no es necesario saber programación.
 
 - **Pros:** Integración nativa con productos de Microsoft, interfaz amigable, precios accesibles.
 - **Contras:** Algunas limitaciones en términos de personalización avanzada y sólo está disponible en sistemas operativos Windows.
 
-La versión gratuita de la herramienta PowerBi se llama PowerBi Desktop y se puede descargar [aquí](https://www.microsoft.com/es-es/download/details.aspx?id=58494). Esta versión contiene gráficas/visualizaciones gratuitas disponibles pero se puede explorar el Marketplace [AppSource](https://appsource.microsoft.com/es-es/marketplace/apps?product=power-bi-visuals) de Windows donde hay cientos de gráficas personalizados, pero algunas ofrecen características adicionales de pago. Además hay que tener en cuenta que estas visualizaciones especiales funcionan con las librerías que se descargan desde [R-Studio](https://cran.r-project.org/bin/windows/base/).
+La **versión gratuita** de la herramienta PowerBi se llama PowerBi Desktop y se puede descargar [aquí](https://www.microsoft.com/es-es/download/details.aspx?id=58494). Esta versión contiene gráficas/visualizaciones gratuitas disponibles pero se puede explorar el Marketplace [AppSource](https://appsource.microsoft.com/es-es/marketplace/apps?product=power-bi-visuals) de Windows donde hay cientos de gráficas personalizados, pero algunas ofrecen características adicionales de pago. Además hay que tener en cuenta que estas visualizaciones especiales funcionan con las librerías que se descargan desde **[R-Studio](https://cran.r-project.org/bin/windows/base/).**
 
 [Aprender más sobre cómo importar visualizaciones descargables de PowerBI desde AppSource](https://learn.microsoft.com/es-es/power-bi/developer/visuals/import-visual)
 
