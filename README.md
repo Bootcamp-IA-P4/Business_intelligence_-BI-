@@ -25,13 +25,14 @@ El **Business Intelligence** (BI) es el proceso de convertir los datos crudos en
 3. **Análisis de Datos:** Evaluar la información para encontrar patrones, tendencias y insights.
 4. **Obtención de Información Útil:** Transformar el análisis en decisiones empresariales efectivas.
 
+---
 
 ## **Beneficios de usar Business Intelligence**
 
-- **Mejor toma de decisiones:** Al contar con información precisa y oportuna, se pueden tomar decisiones más acertadas que mejoran el rendimiento de la empresa.  
-- **Mejor gestión de riesgos:** Ayuda a identificar y gestionar mejor los riesgos empresariales, minimizando posibles pérdidas y maximizando las oportunidades.  
-- **Mayor eficiencia y productividad:** Al analizar los datos, se pueden identificar áreas de mejora y optimizar los procesos, lo que aumenta la eficiencia y la productividad.  
-- **Mayor ventaja competitiva:** Al tener una visión más clara del mercado y de los competidores, se pueden tomar decisiones estratégicas que dan una ventaja competitiva.
+1. **Mejor toma de decisiones:** Al contar con información precisa y oportuna, se pueden tomar decisiones más acertadas que mejoran el rendimiento de la empresa.  
+2. **Mejor gestión de riesgos:** Ayuda a identificar y gestionar mejor los riesgos empresariales, minimizando posibles pérdidas y maximizando las oportunidades.  
+3. **Mayor eficiencia y productividad:** Al analizar los datos, se pueden identificar áreas de mejora y optimizar los procesos, lo que aumenta la eficiencia y la productividad.  
+4. **Mayor ventaja competitiva:** Al tener una visión más clara del mercado y de los competidores, se pueden tomar decisiones estratégicas que dan una ventaja competitiva.
 
 ---
 
