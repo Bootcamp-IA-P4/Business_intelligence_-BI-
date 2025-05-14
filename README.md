@@ -119,11 +119,11 @@ Visualiza en acción cómo funcionan las herramientas de Business Intelligence.
 
 ---
 
-#### 🧭 Panel de Trabajo (Dimensiones y Métricas)  
-🔗 ▶️ [Ver video en Cloudinary](https://res.cloudinary.com/artevivo/video/upload/v1747056315/Dimensiones_amxnpm.mp4)
+#### 🧭 Panel de Trabajo (Vista de barras)  
+🔗 ▶️ [Ver video en Cloudinary](https://res.cloudinary.com/artevivo/video/upload/v1747195705/Ventas_por_pa%C3%ADs_regi%C3%B3n_lliid3.mp4)
 
 <video width="100%" controls>
-  <source src="https://res.cloudinary.com/artevivo/video/upload/v1747056315/Dimensiones_amxnpm.mp4" type="video/mp4">
+  <source src="https://res.cloudinary.com/artevivo/video/upload/v1747195705/Ventas_por_pa%C3%ADs_regi%C3%B3n_lliid3.mp4" type="video/mp4">
 </video>
 
 ---
